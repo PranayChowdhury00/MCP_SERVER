@@ -67,22 +67,22 @@ npm start
     }
   }
 }
-🔐 Notes on API Access
+## 🔐 Notes on API Access
 Make sure the Google Calendar API is enabled in your Google Cloud Console.
 
 The calendar should be public or shared properly if using an API key.
 
-🧭 Future Improvements
+## 🧭 Future Improvements
 Add OAuth2 authentication for multiple users
 
 Support recurring events and event descriptions
 
 Integrate Google Tasks and reminders
 
-📄 License
+## 📄 License
 This project is open-source and available under the MIT License.
 
-🙋‍♂️ Author
+## 🙋‍♂️ Author
 Pranay Chowdhury
 Frontend Developer | MERN Stack Enthusiast
 LinkedIn • GitHub
